@@ -1,7 +1,7 @@
 # Machine Learning - Mini Projects
 CS5785 Applied Machine Learning - Cornell Tech
 
-This is a compilation of few different Machine Learning mini projects that I completed in a team with Antonio Mojena for the Applied Machine Learning course at Cornell Tech, NYC. Coded in Python.
+This is a compilation of few different Machine Learning mini projects that I completed in a team with Antonio Mojena for the Applied Machine Learning course at Cornell Tech, NYC, taught by [Serge Belongie](https://scholar.google.com/citations?user=ORr4XJYAAAAJ&hl=en). Coded in Python.
 
 [HW0 - Playing with the Iris DataSet](https://github.com/IreneFP/CS5785-Applied-ML-CornellTech/tree/master/HW0%20-%20Playing%20with%20the%20Iris%20DataSet)
 
